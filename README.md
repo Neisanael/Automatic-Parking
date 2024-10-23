@@ -73,8 +73,3 @@ Ensure you have the following libraries installed in your Arduino IDE:
 
 > **Warning:**
 > The schematic provided may vary depending on the specific components you are using. Not all components use the same pins. Please refer to the datasheets of your components before making connections to avoid any damage.
-
-
-## Author
-
-Created by [Your Name]. Contributions are welcome!
